@@ -1,0 +1,25 @@
+#### Get to know about Python Code and Create GitHub Repo
+Login on GitHub ==> Create A New Repository
+                    Repository Name ==> K8_Project_Nov13
+
+Download GitHub Remote Repository on GitBash Local Machine
+Copy URL https://github.com/SopanSonar/k8_project_nov13.git
+
+
+#### Open GitBash Laptop/Desktop ####
+$ git clone https://github.com/SopanSonar/k8_project_nov13.git
+$ cd k8_project_nov13
+ docker.sh
+ jenkins.sh
+ jfrog.sh
+ maven.sh
+ sonarqube.sh
+ trivy.sh 
+
+
+##### Data Push to files to GitHub ####
+git staus
+git init
+git add .
+git commit -m "First commit"
+git push
